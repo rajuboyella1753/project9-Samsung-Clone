@@ -1,0 +1,1 @@
+// alert("Welcome to Samsung un-official website / Project-9");
